@@ -26,3 +26,6 @@ Added a custom star-themed background.
 Precisely fitted the game canvas inside a polaroid-style frame.
 Refreshed the color palette using a warm cream, yellow, orange, and deep plum theme for a cleaner and more cohesive look.
 also changed the fonts. 
+
+Power Dots and random brick spawning only activate after the ball is launched for the first time, keeping the aiming phase distraction-free.
+Improved the endless gameplay by making random brick respawns continuous throughout the match with increased spawn frequency, larger spawn batches, and a higher maximum brick density.
